@@ -5,6 +5,8 @@ My name is Juan, i'm 21.
 
 💡 I created this reposity for my new project.
 
+
+
 ## 👨‍💻 Tecnologias que estudo 
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
@@ -16,8 +18,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
   
 
+
 - 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
+badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-bruno-dos-santos-coelho-2b706a433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
 - juansantosdds13@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Juan-bruno-dos-santos-coelho)
+
