@@ -21,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 - 📫 How to reach me:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/juan-bruno-dos-santos-coelho)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/juan-bruno-dos-santos-coelho-2b706a433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 - juansantosdds13@gmail.com
 
