@@ -20,8 +20,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 
 - 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-bruno-dos-santos-coelho-2b706a433?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-bruno-dos-santos-coelho)
 
 
 - juansantosdds13@gmail.com
